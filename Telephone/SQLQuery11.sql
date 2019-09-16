@@ -1,0 +1,1 @@
+﻿DELETE FROM Mobiles WHERE (Mobile='1')
