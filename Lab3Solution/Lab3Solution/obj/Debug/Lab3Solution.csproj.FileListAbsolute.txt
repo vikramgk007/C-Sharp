@@ -1,0 +1,7 @@
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csprojAssemblyReference.cache
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csproj.CoreCompileInputs.cache
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe.config
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.pdb
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.exe
+C:\Users\Dhivy\source\repos\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.pdb
