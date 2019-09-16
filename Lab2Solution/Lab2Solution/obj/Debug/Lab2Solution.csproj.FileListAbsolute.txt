@@ -1,0 +1,7 @@
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\obj\Debug\Lab2Solution.csprojAssemblyReference.cache
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\obj\Debug\Lab2Solution.csproj.CoreCompileInputs.cache
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\bin\Debug\Lab2Solution.exe.config
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\bin\Debug\Lab2Solution.exe
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\bin\Debug\Lab2Solution.pdb
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\obj\Debug\Lab2Solution.exe
+C:\Users\Dhivy\source\repos\Lab2Solution\Lab2Solution\obj\Debug\Lab2Solution.pdb
